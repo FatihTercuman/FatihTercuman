@@ -1,48 +1,37 @@
-<!-- Header -->
 <div align="center">
 
-```
-███████╗ █████╗ ████████╗██╗██╗  ██╗    ████████╗
-██╔════╝██╔══██╗╚══██╔══╝██║██║  ██║    ╚══██╔══╝
-█████╗  ███████║   ██║   ██║███████║       ██║   
-██╔══╝  ██╔══██║   ██║   ██║██╔══██║       ██║   
-██║     ██║  ██║   ██║   ██║██║  ██║       ██║   
-╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝       ╚═╝   
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Fatih%20Terc%C3%BCman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Solution%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=94a3b8)
 
-# Fatih Tercüman
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Solution+Developer;C%23+%26+.NET+Backend+Engineer;Problem+Solver+First%2C+Coder+Second;Building+Clean+%26+Sustainable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=560&lines=Problem+Solver+First%2C+Coder+Second;C%23+%26+.NET+Backend+Developer;Building+Clean+%26+Sustainable+Systems;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-tercüman-88a296256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-terc%C3%BCman-88a296256/)
 [![GitHub](https://img.shields.io/badge/GitHub-FatihTercuman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatihTercuman)
 ![Profile Views](https://komarev.com/ghpvc/?username=FatihTercuman&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-
-<br/>
-
-> *💡 I don't just write code — I understand the problem and design the right solution.*
-> 
-> *Clean code and sustainable architecture are not just concepts — they're habits.*
 
 </div>
 
 ---
 
-## ⚡ About Me
+<br/>
 
-```csharp
-public class FatihTercuman : SolutionDeveloper
-{
-    public string University   => "Atatürk University — Recreation, B.Sc.";
-    public string Focus        => "Backend Development (C# & .NET)";
-    public string Database     => "SQL Server — Data-Driven Solutions";
-    public string Frontend     => "HTML5 & CSS3 — User-Aware Engineering";
-    public string Goal         => "End-to-end developer creating real value";
-    public string[] Principles => ["Clean Code", "Solid Architecture", "Always Learning"];
-}
-```
+## 👨‍💻 About Me
+
+I'm a backend-focused developer currently studying at **Atatürk University**.
+My journey started with curiosity and has grown into a disciplined career path built on real projects.
+
+I don't just write code — I understand the problem and **design the right solution**.
+Positioning myself not only as someone who codes, but as a developer who thinks from both backend and frontend perspectives to deliver end-to-end solutions.
+
+- 🎓 &nbsp; Atatürk University — Recreation, B.Sc.
+- ⚙️ &nbsp; Backend development with **C# and the .NET ecosystem**
+- 🗄️ &nbsp; Data-driven solutions using **SQL Server**
+- 🌐 &nbsp; Frontend-aware engineer — **HTML5 & CSS3**
+- 🎯 &nbsp; Goal: Build systems that create genuine, long-term value
+- 📖 &nbsp; Clean code and sustainable architecture are daily habits, not just concepts
+
+<br/>
 
 ---
 
@@ -60,43 +49,25 @@ public class FatihTercuman : SolutionDeveloper
 
 </div>
 
+<br/>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatihTercuman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=12" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=FatihTercuman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=10" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihTercuman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=94a3b8&border_radius=10" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihTercuman&layout=compact&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00d4ff&text_color=94a3b8&border_radius=12" />
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FatihTercuman&theme=tokyonight&hide_border=true&background=050810&stroke=1e2d45&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=FatihTercuman&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e2d45&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&border_radius=10)
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-> 🔧 **Projects coming soon** — currently building in silence, shipping with quality.
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔜 Coming Soon | Backend API project | C# · .NET · SQL |
-| 🔜 Coming Soon | Data management system | C# · SQL Server |
-
----
-
-## 🌱 Currently Learning
-
-- ⚙️ Advanced **ASP.NET Core** — REST APIs & Clean Architecture
-- 🗄️ **Entity Framework Core** — ORM & Database Management  
-- 🔐 Authentication & Authorization patterns
-- 📐 **SOLID Principles** & Design Patterns in practice
+<br/>
 
 ---
 
@@ -104,21 +75,43 @@ public class FatihTercuman : SolutionDeveloper
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatihTercuman&bg_color=050810&color=00d4ff&line=7c3aed&point=10b981&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatihTercuman&bg_color=0d1117&color=00d4ff&line=7c3aed&point=10b981&area=true&hide_border=true&border_radius=10)
 
 </div>
+
+<br/>
+
+---
+
+## 🌱 Currently Learning
+
+| Area | Focus |
+|------|-------|
+| ⚙️ ASP.NET Core | REST APIs & Clean Architecture |
+| 🗄️ Entity Framework Core | ORM & Database Management |
+| 🔐 Security | Authentication & Authorization Patterns |
+| 📐 Software Design | SOLID Principles & Design Patterns |
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+> Currently building in silence — shipping with quality.
+> Projects will be pinned here as they reach production-ready state.
+
+<br/>
 
 ---
 
 <div align="center">
-
-### 💬 Philosophy
 
 *"The best code is not the cleverest code.*
 *It's the code that clearly solves the right problem."*
 
 <br/>
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
