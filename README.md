@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🚀 Fatih Tercüman
-### Full Stack Developer | .NET & Software Architect
+# ⚡ Fatih Tercüman
+### Full Stack Solution Developer | Backend Specialist
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0984e3&height=220&section=header&text=Architecting%20Digital%20Value&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0984e3&height=250&section=header&text=Architecting%20Robust%20Solutions&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/people/?origin=SEO_PSERP&firstName=%22Fatih%22&lastName=%22Terc%C3%BCman%22)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fatihtercumann)
@@ -13,28 +13,28 @@
 
 ---
 
-### 🖋️ Professional Profile
-Deeply focused on the **C# / .NET** ecosystem, I specialize in building robust backend architectures and scalable enterprise solutions. Combining my academic background from **Atatürk University** with a specialized **Full Stack Developer** certification from **ArıBilgi**, I deliver clean, maintainable, and high-performance code.
+### 🖋️ Executive Summary
+Specialized in high-performance **C# and .NET** ecosystems, I focus on building scalable backend architectures and seamless end-to-end solutions. My approach combines the analytical discipline of my **Atatürk University** background with professional technical expertise from **ArıBilgi Education Institution**.
 
 ---
 
-### 🛠️ Strategic Tech Stack
+### 💻 Technical Proficiency (Primary Stack)
 
-| Technology | Proficiency & Expertise |
+| Technology | Mastery Level |
 | :--- | :--- |
-| **C# / .NET Core / ASP.NET** | ![Expert](https://img.shields.io/badge/Mastery-100%25-0984e3?style=flat-square) |
-| **MS SQL Server / EF Core** | ![Advanced](https://img.shields.io/badge/Expertise-90%25-1e3799?style=flat-square) |
-| **Web API / Microservices** | ![Advanced](https://img.shields.io/badge/Expertise-85%25-0984e3?style=flat-square) |
-| **JS / HTML5 / CSS3** | ![Intermediate](https://img.shields.io/badge/Knowledge-75%25-1e3799?style=flat-square) |
+| **C# / .NET / ASP.NET** | ![Expert](https://img.shields.io/badge/Mastery-100%25-0984e3?style=flat-square) |
+| **MS SQL Server** | ![Advanced](https://img.shields.io/badge/Expertise-85%25-1e3799?style=flat-square) |
+| **Web API / REST** | ![Advanced](https://img.shields.io/badge/Expertise-90%25-0984e3?style=flat-square) |
+| **JavaScript / HTML / CSS** | ![Intermediate](https://img.shields.io/badge/Knowledge-75%25-1e3799?style=flat-square) |
 
 ---
 
-### 🎓 Credentials & Achievements
-* **ArıBilgi Education Institution** | *Professional Full Stack Developer Certification*
+### 🏆 Professional Credentials
+* **ArıBilgi Education Institution** | *Full Stack Developer Certification*
 * **Atatürk University** | *Bachelor's Degree (Lisans)*
 
 ---
 
-### 📊 System Performance & Metrics
-<div align="center">
-  <img src="https://github-readme-stats.
+### 🛠️ Core Toolkit & Ecosystem
+<p align="left">
+  <img src="
