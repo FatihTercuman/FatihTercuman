@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fatih%20Terc%C3%BCman&fontSize=50&fontColor=ffffff&color=12,14,18,0,230,255&animation=fadeIn&fontAlignY=40&desc=Architecting%20Solutions%20%7C%20Full%20Stack%20Development&descSize=18&descAlignY=62&descColor=a8d8ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Fatih%20Terc%C3%BCman&fontSize=50&fontColor=ffffff&color=121418,00E5FF&animation=fadeIn&fontAlignY=38&desc=Architecting%20Solutions%20%7C%20Full%20Stack%20Development&descSize=18&descAlignY=60&descColor=a8d8ff"/>
 
 <br/>
 
@@ -82,10 +82,10 @@ I am a **Full Stack Solution Developer** dedicated to building logic that lasts.
 
 ```markdown
 ┌──── 🎯 Optimization & Architecture ──────────────────────────┐
-│                                                               │
-│ > Deeper dive into ASP.NET Core REST API performance         │
-│ > Mastering advanced Entity Framework Core features           │
-│ > Implementing modern Authentication (OAuth2, OpenID)        │
-│ > Visualizing SOLID principles in practical code             │
-│                                                               │
+│                                                               │
+│ > Deeper dive into ASP.NET Core REST API performance         │
+│ > Mastering advanced Entity Framework Core features           │
+│ > Implementing modern Authentication (OAuth2, OpenID)        │
+│ > Visualizing SOLID principles in practical code             │
+│                                                               │
 └───────────────────────────────────────────────────── [2024] ──┘
